@@ -1,0 +1,209 @@
+[
+    {
+        "country_id": "01",
+        "country_name":"Bangladesh"
+    },
+    {
+        "country_id": "02",
+        "country_name":"India"
+    },
+    {
+        "country_id": "03",
+        "country_name":"Pakisthan"
+    },
+    {
+        "state_id": "101",
+        "state_name":"Dhaka",
+        "country":"Bangladesh"
+    },
+    {
+        "state_id": "102",
+        "state_name":"Barisal",
+        "country":"Bangladesh"
+    },
+    {
+        "state_id": "103",
+        "state_name":"Khulna",
+        "country":"Bangladesh"
+    },
+    {
+        "state_id": "104",
+        "state_name":"Rangpur",
+        "country":"Bangladesh"
+    },
+    {
+        "state_id": "105",
+        "state_name":"Sylhet",
+        "country":"Bangladesh"
+    },
+    {
+        "state_id": "106",
+        "state_name":"Assam",
+        "country":"India"
+    },
+    {
+        "state_id": "107",
+        "state_name":"Maharashtra",
+        "country":"India"
+    },
+    {
+        "state_id": "108",
+        "state_name":"Tripura",
+        "country":"India"
+    },
+    {
+        "state_id": "109",
+        "state_name":"Vaishali",
+        "country":"India"
+    },
+    {
+        "state_id": "110",
+        "state_name":"Monipur",
+        "country":"India"
+    },
+    {
+        "state_id": "101",
+        "state_name":"Khyber Pakhtunkhwa",
+        "country":"Pakisthan"
+    },
+    {
+        "state_id": "102",
+        "state_name":"Gilgit-Baltistan",
+        "country":"Pakisthan"
+    },
+    {
+        "state_id": "103",
+        "state_name":"Islamabad",
+        "country":"Pakisthan"
+    },
+    {
+        "city_id": "1001",
+        "city":"Gazipur",
+       "state": "Dhaka"
+    },
+    {
+        "city_id": "1002",
+        "city_name":"Narayanganj",
+       "state": "Dhaka"
+    },
+    {
+        "city_id": "1003",
+        "city_name":"Gopalganj",
+       "state": "Dhaka"
+    },
+    {
+        "city_id": "1004",
+        "city_name":"Kuakata",
+       "state":"Barisal"
+    },
+    {
+        "city_id": "1005",
+        "city_name":"Pirojpur",
+       "state":"Barisal"
+    },
+    {
+        "city_id": "1006",
+        "city_name":"Jhalokati",
+       "state":"Barisal"
+    },
+    {
+        "city_id": "1007",
+        "city_name":"Kushtia",
+       "state":"Khulna"
+    },
+    {
+        "city_id": "1008",
+        "city_name":"Jhenaidah",
+       "state":"Khulna"
+    },
+    {
+        "city_id": "1009",
+        "city_name":"Dinajpur",
+       "state":"Rangpur"
+    },
+    {
+        "city_id": "1010",
+        "city_name":"Sunamganj",
+       "state":"Sylhet"
+    },
+    {
+        "city_id": "1011",
+        "city_name":"Guwahati",
+       "state":"Assam"
+    },
+    {
+        "city_id": "1012",
+        "city_name":"Silchar",
+       "state":"Assam"
+    },
+    {
+        "city_id": "1013",
+        "city_name":"Ambad",
+       "state":"Maharashtra"
+    },
+    {
+        "city_id": "1014",
+        "city_name":"Ballarpur",
+       "state":"Maharashtra"
+    },
+    {
+        "city_id": "1015",
+        "city_name":"Bhor",
+       "state":"Maharashtra"
+    },
+    {
+        "city_id": "1016",
+        "city_name":"Agartala",
+       "state":"Tripura"
+    },
+    {
+        "city_id": "1017",
+        "city_name":"Muzaffarpur",
+       "state_id":"Vaishali"
+    },
+    {
+        "city_id": "1018",
+        "city_name":"Patna ",
+       "state_id":"Vaishali"
+    },
+    {
+        "city_id": "1019",
+        "city_name":"Bishnupur",
+       "state_id":"Monipur"
+    },
+    {
+        "city_id": "1020",
+        "city_name":"Chandel ",
+       "state_id":"Monipur"
+    },
+    {
+        "city_id": "1021",
+        "city_name":"Peshawar ",
+       "state_id":"Khyber Pakhtunkhwa"
+    },
+    {
+        "city_id": "10202",
+        "city_name":"Mardan ",
+       "state_id":"Khyber Pakhtunkhwa"
+    },
+    {
+        "city_id": "1023",
+        "city_name":"Darel ",
+       "state_id":"1012"
+    },
+    {
+        "city_id": "1024",
+        "city_name":"Ghanche ",
+       "state_id":"1012"
+    },
+    {
+        "city_id": "1025",
+        "city_name":"Gojal ",
+       "state_id":"1012"
+    },
+    {
+        "city_id": "1026",
+        "city_name":"Capital ",
+       "state_id":"1013"
+    }
+]
